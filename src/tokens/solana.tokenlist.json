@@ -4,6 +4,7 @@
   "symbol": "EUCO",
   "name": "EuroCoin",
   "decimals": 9,
-  "logoURI": "URL_TIL_DIT_LOGO",
+  "logoURI": "../../assets/mainnet/eurocoin.png",
   "tags": ["utility-token"]
 }
+
