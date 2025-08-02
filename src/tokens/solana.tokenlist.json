@@ -4,7 +4,8 @@
   "symbol": "EUCO",
   "name": "EuroCoin",
   "decimals": 9,
-  "logoURI": "../../assets/mainnet/eurocoin.png",
+  "logoURI": "https://github.com/mickni38-svg/assets/mainnet/eurocoin.png?raw=true",
   "tags": ["utility-token"]
 }
+
 
